@@ -7,6 +7,6 @@ import cafe.adriel.voyager.androidx.AndroidScreen
 class NotificationScreen : AndroidScreen() {
     @Composable
     override fun Content() {
-        Text(text = "Hi main")
+        Text(text = "Hi rez 123")
     }
 }
